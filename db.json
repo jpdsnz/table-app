@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "name": "John Paul Jones",
+      "age": 10,
+      "id": 1,
+      "gender": "male",
+      "friendly": false,
+      "email": "cash@google.com"
+    },
+    {
+      "name": "Mary Jane",
+      "age": 10,
+      "id": 8,
+      "gender": "female",
+      "friendly": false,
+      "email": "cash@google.com"
+    },
+    {
+      "name": "Joseph Swanson",
+      "age": 25,
+      "id": 2,
+      "gender": "male",
+      "friendly": true,
+      "email": "googa@google.com"
+    },
+    {
+      "name": "Bob Duncan",
+      "age": 10,
+      "id": 4,
+      "gender": "male",
+      "friendly": true,
+      "email": "geronomo@google.com"
+    }
+  ]
+}
